@@ -1,3 +1,6 @@
+# TMD，难道这就是未来，一个个跟前端学的狗屁模版代码，有任何意思吗，还TM的煞有其事的想一通前端，能不能用一种更加elegant更加program的方式啊，Fxxk the Future， Fxxk the KING!
+
+
 # yr_flutter_app
 
 A new Flutter application.
